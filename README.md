@@ -112,7 +112,6 @@ Commands:
 - [tencent](https://mirrors.cloud.tencent.com/help/npm.html)
 - [npmMirror](https://skimdb.npmjs.com/)
 - [github](https://npm.pkg.github.com/)
-- [ustc](https://mirrors.ustc.edu.cn/help/npm.html)
 - [cnpm](https://cnpmjs.org/)
 - [cernet](https://help.mirrors.cernet.edu.cn/npm)
 
