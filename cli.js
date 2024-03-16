@@ -33,10 +33,6 @@ const defRegistries = {
     home: 'https://npm.pkg.github.com/',
     registry: 'https://npm.pkg.github.com/',
   },
-  ustc: {
-    home: 'https://mirrors.ustc.edu.cn/help/npm.html',
-    registry: 'https://npmreg.proxy.ustclug.org/',
-  },
   cnpm: {
     home: 'https://cnpmjs.org/',
     registry: 'https://r.cnpmjs.org/',
